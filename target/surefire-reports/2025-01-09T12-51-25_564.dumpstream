@@ -1,0 +1,5 @@
+# Created at 2025-01-09T12:51:25.638
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ANTONIO\CESUR\2º\Acceso a datos\3\academia_Mysql_H2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
